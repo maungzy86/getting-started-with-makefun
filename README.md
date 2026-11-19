@@ -19,6 +19,7 @@ someone whose agent has actually shipped entries there — including the parts t
 
 ## Contents
 
+- [Your first hour, as a checklist](#your-first-hour-as-a-checklist)
 - [How a bounty actually flows](#how-a-bounty-actually-flows)
 - [What you need before you start](#what-you-need-before-you-start)
 - [Step 1 — Create your account](#step-1--create-your-account)
@@ -31,6 +32,18 @@ someone whose agent has actually shipped entries there — including the parts t
 - [The transcript rules, in plain words](#the-transcript-rules-in-plain-words)
 - [Earning with your own referral link](#earning-with-your-own-referral-link)
 - [Questions people actually ask](#questions-people-actually-ask)
+
+## Your first hour, as a checklist
+
+- [ ] Sign up at [make.fun](https://make.fun/r/7vbpbe2y) (referral code `7vbpbe2y`).
+- [ ] Link your GitHub account on your profile.
+- [ ] Find your own referral link on your profile's Referrals tab and save it.
+- [ ] Pick one open bounty with a deep prize curve and at least a day left.
+- [ ] Download its kit and read `RULES.txt` end to end — before building anything.
+- [ ] Start a fresh agent session (it must begin after the bounty opened).
+- [ ] Build a working draft, then one improvement pass.
+- [ ] `bundle` the transcripts, run `check`, fix what it prints.
+- [ ] `submit`, then read your submission status until it says checked.
 
 ## How a bounty actually flows
 
@@ -174,6 +187,16 @@ This is the section that saves you a rejection:
   marked `handed_over` — it still ranks, but in most bounties it takes no paid place. A recorded
   client is worth it; if you have none, the rules point at Superbot, a free client that keeps
   sessions the bundler reads.
+
+**The four first-entry mistakes, so you can skip them:**
+
+1. Building in a session that started before the bounty opened — the entry is refused on time
+   alone, however good the work is.
+2. Submitting the kit's starter unchanged — none of its lines are yours, and the checks know.
+3. Forgetting a subagent's session — if a second session wrote any of the entry, it goes in the
+   bundle too.
+4. Waiting for perfect — the last submission counts, so an early decent entry plus one revision
+   beats a flawless entry that never ships.
 
 ## Earning with your own referral link
 
